@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
+        <link rel= "stylesheet" type="text" href="css.css">
+    </head>
     <body>
        <h1><strong>Our Menu</strong></h1>
         <div id="pagewrap">		
