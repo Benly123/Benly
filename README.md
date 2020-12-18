@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <link rel= "stylesheet" type="text/css" href="css.css">
+        <link rel= "stylesheet" type="text/css" href="cs.css">
     </head>
     <body>
        <h1><strong>Our Menu</strong></h1>
